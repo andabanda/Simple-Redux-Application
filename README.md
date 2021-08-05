@@ -14,3 +14,6 @@ This is the details page for a caller:
 
 ## Challenges: 
 The boilerplate code was outdated, and required a lot of modification and the CSS was difficult to work with as well, causing me to remove all the boilerplate and just try my own CSS. 
+
+## Further Changes:
+If I had more time, I would add the archived feature and then make details a modal, and clean up the CSS to make it more beautiful.
