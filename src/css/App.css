@@ -1,0 +1,41 @@
+.App {
+    height: 100%;
+    text-align: center;
+
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 400px;
+    flex-direction: column;
+
+    background: #333333;
+}
+
+.smaller {
+    height: 100%;
+    border: solid;
+    border-color: black;
+    background: #f9f9f9;
+}
+
+.header {
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    height: 100%;
+    justify-content: center;
+    background: #f9f9f9;
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 10px;
+    height: 100%;
+}
+
+.cardStock {
+    padding: '10px';
+}
